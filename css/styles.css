@@ -712,7 +712,7 @@ a {
 }
 
 .modal-check-contain {
-    
+    margin-bottom: 24px;
 }
 
 .modal-check-label {
@@ -722,7 +722,6 @@ a {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    padding-top: 16px;
 }
 
 .modal-policy {
