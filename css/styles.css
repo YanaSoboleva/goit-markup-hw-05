@@ -596,7 +596,7 @@ a {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding: 72px 24px 24px 24px;
+    padding: 72px 24px 0px 24px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -712,7 +712,7 @@ a {
 }
 
 .modal-check-contain {
-    margin-bottom: 24px;
+    
 }
 
 .modal-check-label {
@@ -766,7 +766,7 @@ a {
     color: #ffffff;
     cursor: pointer;
     display: block;
-    margin: 24px auto 0 auto;
+    margin: 24px auto 0;
     border-radius: 4px;
     border: none;
     padding: 16px 32px;
