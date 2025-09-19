@@ -738,7 +738,7 @@ a {
 }
 
 .modal-check {
-    display: flex;
+    display: flex; 
     transition: 250ms border-color linear;
 }
 
